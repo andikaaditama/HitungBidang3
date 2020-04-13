@@ -1,0 +1,2 @@
+rootProject.name='HItung Bidang'
+include ':app'
